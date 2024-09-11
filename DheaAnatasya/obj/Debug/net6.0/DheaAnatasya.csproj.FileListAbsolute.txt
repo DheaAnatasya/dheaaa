@@ -1,0 +1,15 @@
+C:\latihan\DheaAnatasya\DheaAnatasya\bin\Debug\net6.0\DheaAnatasya.exe
+C:\latihan\DheaAnatasya\DheaAnatasya\bin\Debug\net6.0\DheaAnatasya.deps.json
+C:\latihan\DheaAnatasya\DheaAnatasya\bin\Debug\net6.0\DheaAnatasya.runtimeconfig.json
+C:\latihan\DheaAnatasya\DheaAnatasya\bin\Debug\net6.0\DheaAnatasya.dll
+C:\latihan\DheaAnatasya\DheaAnatasya\bin\Debug\net6.0\DheaAnatasya.pdb
+C:\latihan\DheaAnatasya\DheaAnatasya\obj\Debug\net6.0\DheaAnatasya.csproj.AssemblyReference.cache
+C:\latihan\DheaAnatasya\DheaAnatasya\obj\Debug\net6.0\DheaAnatasya.GeneratedMSBuildEditorConfig.editorconfig
+C:\latihan\DheaAnatasya\DheaAnatasya\obj\Debug\net6.0\DheaAnatasya.AssemblyInfoInputs.cache
+C:\latihan\DheaAnatasya\DheaAnatasya\obj\Debug\net6.0\DheaAnatasya.AssemblyInfo.cs
+C:\latihan\DheaAnatasya\DheaAnatasya\obj\Debug\net6.0\DheaAnatasya.csproj.CoreCompileInputs.cache
+C:\latihan\DheaAnatasya\DheaAnatasya\obj\Debug\net6.0\DheaAnatasya.dll
+C:\latihan\DheaAnatasya\DheaAnatasya\obj\Debug\net6.0\refint\DheaAnatasya.dll
+C:\latihan\DheaAnatasya\DheaAnatasya\obj\Debug\net6.0\DheaAnatasya.pdb
+C:\latihan\DheaAnatasya\DheaAnatasya\obj\Debug\net6.0\DheaAnatasya.genruntimeconfig.cache
+C:\latihan\DheaAnatasya\DheaAnatasya\obj\Debug\net6.0\ref\DheaAnatasya.dll
